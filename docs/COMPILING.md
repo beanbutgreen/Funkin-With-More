@@ -2,7 +2,7 @@
 
 0. Setup
     - Download Haxe from [Haxe.org](https://haxe.org)
-    - Download Git from [git-scm.com](https://www.git-scm.com)
+    - Download Git from [git-scm.com](https://www.git-scm.com) or on Macbook Devices you can install Xcode from the App Store
     - Do NOT download the repository using the Download ZIP button on GitHub or you may run into errors!
     - Instead, open a command prompt and do the following steps...
 1. Run `cd the\directory\you\want\the\source\code\in` to specify which folder the command prompt is working in.
